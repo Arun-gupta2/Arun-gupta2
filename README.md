@@ -1,7 +1,5 @@
 Hey, I'm Arun Gupta 👋
 
-Full Stack Developer | React.js • Next.js • TypeScript • Node.js
-
 I’m a Full Stack Developer passionate about building scalable web applications, reliable backend systems, and AI-powered products. I enjoy turning ideas into practical solutions through clean code, thoughtful architecture, and user-focused development.
 
 💼 Currently working at HuemanX, building a B2B Lead Revenue Automation platform.
@@ -110,17 +108,6 @@ Integrated frontend and backend APIs to process resume analysis requests.
 
 Presented structured recommendations to help users improve role relevance.
 
-4. B2B Lead Revenue Automation Platform
-
-Tech: React · TypeScript · Node.js
-
-Contributing to a platform focused on discovering business leads from multiple sources.
-
-Working on lead capture, CRM data transfer, and business workflow automation.
-
-Collaborating on product enhancements and application reliability.
-
-Professional project; selected implementation details may be proprietary.
 
 📊 GitHub Activity
 
@@ -148,9 +135,9 @@ CGPA: 8.7/10
 
 I'm interested in collaborating on full-stack applications, AI-powered products, backend systems, and meaningful open-source projects.
 
-💼 LinkedIn: Connect with me
+💼 LinkedIn:(https://www.linkedin.com/in/arun-gupta2003)
 
-💻 GitHub: Explore my repositories
+💻 GitHub: (https://github.com/arun-gupta2)
 
 📧 Email: arun.12a628@gmail.com
 
