@@ -7,8 +7,11 @@ I’m a Full Stack Developer passionate about building scalable web applications
 🌱 Exploring AI integrations, backend architecture, database optimization, and scalable application development.
 
 📍 Sonipat, Haryana, India
+<br>
+<br>
 
-🛠️ Tech Stack
+
+## 🛠️ Tech Stack
 
 Frontend Development
 
@@ -50,97 +53,123 @@ Tools & Platforms
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-💼 Professional Experience
+<br>
+<br>
 
-Full Stack Developer — HuemanX
+## 💼 Professional Experience
+
+### Full Stack Developer — HuemanX
 
 September 2026 – Present | Remote
 
-Building core modules for a B2B Lead Revenue Automation platform.
+<ul>
+  <li>Building core modules for a B2B Lead Revenue Automation platform.</li>
+  <li>Developing lead discovery, multi-source lead capture, and CRM data transfer functionality using React, TypeScript, and Node.js.</li>
+  <li>Developing and maintaining a responsive company marketing website.</li>
+  <li>Collaborating on feature development, debugging, code reviews, and weekly releases using GitHub and Jira.
+</li>
+</ul>
 
-Developing lead discovery, multi-source lead capture, and CRM data transfer functionality using React, TypeScript, and Node.js.
 
-Developing and maintaining a responsive company marketing website.
 
-Collaborating on feature development, debugging, code reviews, and weekly releases using GitHub and Jira.
 
-Backend Intern — CodeClause Pvt. Ltd.
+
+
+
+### Backend Intern — CodeClause Pvt. Ltd.
 
 July 2024 – October 2024 | Bengaluru, India
-
-Built REST APIs for an inventory and order management system.
-
-Implemented stock validation to prevent overselling during concurrent orders.
-
-Designed a normalized MySQL database schema for products, orders, and stock ledgers.
-
-Optimized database queries, reducing average API response time by approximately 40%.
-
-🚀 Featured Projects
-
-1. Slotly — AI Scheduling SaaS
-
-Tech: Next.js · TypeScript · PostgreSQL
-
-Developed an appointment scheduling platform for managing availability and bookings.
-
-Built REST APIs for appointment management and availability handling.
-
-Connected frontend workflows with backend services to simplify booking management.
-
-2. AI-Powered Learning Platform
-
-Tech: React · TypeScript · Django · PostgreSQL
-
-Integrated AI services for educational content generation and contextual explanations.
-
-Built reusable frontend components and backend API workflows.
-
-Connected user requests with learning services through structured API integrations.
-
-3. Resume Enhancement System
-
-Tech: React · TypeScript · Node.js
-
-Built workflows for analyzing resume content against job requirements.
-
-Integrated frontend and backend APIs to process resume analysis requests.
-
-Presented structured recommendations to help users improve role relevance.
+<ul>
+<li>Built REST APIs for an inventory and order management system.</li>
+  <li>Implemented stock validation to prevent overselling during concurrent orders.</li>
+  <li>Designed a normalized MySQL database schema for products, orders, and stock ledgers.</li>
+  <li>Optimized database queries, reducing average API response time by approximately 40%.</li>
+</ul>
 
 
-📊 GitHub Activity
+
+<br>
+<br>
+
+
+
+
+
+## 🚀 Featured Projects
+
+### Slotly — AI Scheduling SaaS
+
+**Tech Stack:** Next.js · TypeScript · PostgreSQL
+
+<ul>
+  <li>Developed an appointment scheduling platform for managing availability and bookings.</li>
+  <li>Built REST APIs for appointment management and availability handling.</li>
+  <li>Connected frontend workflows with backend services to simplify booking management.</li>
+</ul>
+
+<br/>
+
+### AI-Powered Learning Platform
+
+**Tech Stack:** React · TypeScript · Django · PostgreSQL
+
+<ul>
+  <li>Integrated AI services for educational content generation and contextual explanations.</li>
+  <li>Built reusable frontend components and backend API workflows.</li>
+  <li>Connected user requests with learning services through structured API integrations.</li>
+</ul>
+
+<br/>
+
+### Resume Enhancement System
+
+**Tech Stack:** React · TypeScript · Node.js
+
+<ul>
+  <li>Built workflows for analyzing resume content against job requirements.</li>
+  <li>Integrated frontend and backend APIs to process resume analysis requests.</li>
+  <li>Presented structured recommendations to help users improve role relevance.</li>
+</ul>
+
+<br>
+<br>
+
+
+
+
+
+## 📊 GitHub Activity
 
 <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
 
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arun-Gupta2&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p> --!>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Arun-Gupta2&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun-Gupta2&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
+<br>
+<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
 
-🎓 Education
-
-B.Tech in Computer Science and Engineering
-Guru Gobind Singh Indraprastha University | 2021–2025
-CGPA: 8.7/10
-
-🤝 Let's Connect
-
+<b>🤝 Let's Connect</b>
+<br>
 I'm interested in collaborating on full-stack applications, AI-powered products, backend systems, and meaningful open-source projects.
+<br>
+<br>
+<b>💼 LinkedIn</b>:(https://www.linkedin.com/in/arun-gupta2003)
+<br>
 
-💼 LinkedIn:(https://www.linkedin.com/in/arun-gupta2003)
-
-💻 GitHub: (https://github.com/arun-gupta2)
-
-📧 Email: arun.12a628@gmail.com
-
+<b>💻 GitHub</b>: (https://github.com/arun-gupta2)
+<br>
+<b>📧 Email</b>: arun.12a628@gmail.com
+<br>
+<br>
 <p align="center">
   <i>"Building useful products, writing better code, and learning something new every day."</i>
 </p>
